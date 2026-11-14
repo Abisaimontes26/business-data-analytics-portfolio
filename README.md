@@ -15,10 +15,15 @@ Technical Skills
 
 Tool	Current Level
 Microsoft Excel	Developing
+
 Power BI	Developing
+
 Tableau	Developing
+
 SQL	Developing
+
 R	Developing
+
 Python	Currently Learning
 
 Portfolio Projects
@@ -53,10 +58,6 @@ Career Interests
 Career Goal
 
 My goal is to combine business knowledge and technical analytics skills to help organizations make informed, data-driven decisions.
-
-⸻
-
-Thank you for visiting my portfolio!
 
 ⸻
 

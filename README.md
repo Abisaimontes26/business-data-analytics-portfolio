@@ -32,9 +32,28 @@ I am building projects that demonstrate my ability to collect, clean, analyze, a
 
 1. Sales Performance Analysis
 
-Status: Coming Soon
+**Status: Complete** | [View the interactive dashboard on Tableau Public]((https://public.tableau.com/app/profile/abisai.montes/viz/SuperstoreSalesPerformance_17946991080290/Dashboard1))
 
-Analyzing sales data to identify revenue trends, product performance, and business opportunities.
+![Superstore Sales Dashboard](dashboard.png)
+
+**Business question:** Where is this retail company making and losing money?
+
+**Key findings**
+- Furniture earns only a 2.5% profit margin vs. about 17% for Office Supplies and Technology. Tables and Bookcases are the main cause.
+- Discounts of 30% or more lose money: about -$135K across 1,393 order lines, while all other lines earned +$422K.
+- Heavy discounts stayed about 14% of lines every year, but their losses jumped from about -$31K (2016) to -$48K (2017). Binders account for over half of that jump.
+- Binder lines sold at 70-80% off lost about $38.5K.
+
+**Suggested next step:** Review the deepest Binder discounts and test whether capping discounts near 20% protects margin. The data shows the pattern but not why the discounts were given.
+
+**Tools used:** Excel (cleaning), SQL with SQLite (analysis), Tableau Public (dashboard), GitHub
+
+**Project files**
+- [Data dictionary](data_dictionary.md)
+- [Data cleaning log](cleaning_log.md)
+- [SQL queries](project1_queries.sql)
+
+**Data source:** Kaggle "Superstore Dataset" by Vivek Chowdhury (public sample data, 2014-2017)
 
 2. Customer Analytics
 

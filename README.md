@@ -44,7 +44,6 @@ I am building projects that demonstrate my ability to collect, clean, analyze, a
 - Heavy discounts stayed about 14% of lines every year, but their losses jumped from about -$31K (2016) to -$48K (2017). Binders account for over half of that jump.
 - Binder lines sold at 70-80% off lost about $38.5K.
 
-**Suggested next step:** Review the deepest Binder discounts and test whether capping discounts near 20% protects margin. The data shows the pattern but not why the discounts were given.
 
 **Tools used:** Excel (cleaning), SQL with SQLite (analysis), Tableau Public (dashboard), GitHub
 

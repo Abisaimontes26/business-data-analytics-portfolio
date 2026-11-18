@@ -48,8 +48,8 @@ I am building projects that demonstrate my ability to collect, clean, analyze, a
 **Tools used:** Excel (cleaning), SQL with SQLite (analysis), Tableau Public (dashboard), GitHub
 
 **Project files**
-- [Data dictionary](data_dictionary.md)
-- [Data cleaning log](cleaning_log.md)
+- [Data dictionary](project1/data_dictionary.md)
+- [Data cleaning log](project1/cleaning_log.md)
 - [SQL queries](project1_queries.sql)
 
 **Data source:** Kaggle "Superstore Dataset" by Vivek Chowdhury (public sample data, 2014-2017)

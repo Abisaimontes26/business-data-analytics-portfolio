@@ -50,7 +50,7 @@ I am building projects that demonstrate my ability to collect, clean, analyze, a
 **Project files**
 - [Data dictionary](project1/data_dictionary.md)
 - [Data cleaning log](project1/cleaning_log.md)
-- [SQL queries](project1_queries.sql)
+- [SQL queries](project1/project1_queries.sql)
 
 **Data source:** Kaggle "Superstore Dataset" by Vivek Chowdhury (public sample data, 2014-2017)
 

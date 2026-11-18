@@ -34,7 +34,7 @@ I am building projects that demonstrate my ability to collect, clean, analyze, a
 
 **Status: Complete** | [View the interactive dashboard on Tableau Public]((https://public.tableau.com/app/profile/abisai.montes/viz/SuperstoreSalesPerformance_17946991080290/Dashboard1))
 
-![Superstore Sales Dashboard](dashboard.png)
+![Superstore Sales Dashboard](project1/dashboard.png)
 
 **Business question:** Where is this retail company making and losing money?
 

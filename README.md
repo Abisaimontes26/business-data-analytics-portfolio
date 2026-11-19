@@ -54,11 +54,16 @@ I am building projects that demonstrate my ability to collect, clean, analyze, a
 
 **Data source:** Kaggle "Superstore Dataset" by Vivek Chowdhury (public sample data, 2014-2017)
 
-2. Customer Analytics
+2. Telco Customer Churn Analysis
+**Status: Complete** | [View the project](project2-customer-churn/README.md)
 
-Status: Coming Soon
+![Telco churn dashboard](project2-customer-churn/dashboard.png)
 
-Exploring customer behavior, purchasing patterns, and customer retention.
+**Business question:** Which customers are leaving, and what do they have in common?
+
+**Headline finding:** About 1 in 4 customers left. Month-to-month customers churn at 42.7% vs. 2.8% on two-year contracts, and customers in their first year churn at 47% vs. 10% after four years.
+
+**Tools used:** Excel (cleaning, PivotTables), Power BI (dashboard, DAX measure)
 
 3. Business Operations Analysis
 

@@ -55,7 +55,7 @@ I am building projects that demonstrate my ability to collect, clean, analyze, a
 **Data source:** Kaggle "Superstore Dataset" by Vivek Chowdhury (public sample data, 2014-2017)
 
 2. Telco Customer Churn Analysis
-**Status: Complete** | [View the project](project2-customer-churn/README.md)
+**Status: Complete** | [View the project](project2-customer-churn/readme.md)
 
 ![Telco churn dashboard](project2-customer-churn/dashboard.png)
 

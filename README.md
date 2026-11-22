@@ -63,7 +63,7 @@ I am building projects that demonstrate my ability to collect, clean, analyze, a
 **Tools used:** Excel (cleaning, PivotTables), Power BI (dashboard, DAX measure)
 
 3. Psychiatric Facility Quality: Missouri vs. the Nation (Healthcare)
-**Status: Complete** | [View the project](project3-psychiatric-facility-quality/README.md)
+**Status: Complete** | [View the project](project3-psychiatric-facility-quality/readme.md)
 
 ![Psychiatric facility quality dashboard](project3-psychiatric-facility-quality/dashboard.png)
 

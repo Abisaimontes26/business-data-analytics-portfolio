@@ -18,7 +18,7 @@
 | MedCont (%, denominator) | Medication continuation following inpatient psychiatric discharge |
 | READM-30-IPF (category, denominator, rate, lower/higher estimate) | Readmission to any hospital within 30 days of discharge, with CMS comparison to the national rate |
 | IMM-2 (%, denominator) | Influenza immunization |
-| Each "Footnote" column | CMS footnote code explaining a missing or limited result (look up in Footnote_Crosswalk.csv) |
+| Each "Footnote" column | CMS footnote code. In this file: 1 = number of cases too few to report; 5 = results not available for this reporting period; 7 = no cases met the criteria for the measure; 29 = measure calculated using partial performance period data (copy the full wording from Footnote_Crosswalk.csv). Codes 1, 5, and 7 always have no value ("Not Available"); code 29 has a value. |
 | Start/End Date columns | Reporting period for each group of measures |
 
 **Notes**

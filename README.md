@@ -11,20 +11,17 @@ About Me
 * 📈 Interested in data visualization and business reporting
 * 💡 Continuously developing my technical and analytical skills
 
-Technical Skills
 
-Tool	Current Level
-Microsoft Excel	Developing
+## Technical Skills
+| Tool | Where I've used it |
+|---|---|
+| Microsoft Excel | All 3 projects: data cleaning, PivotTables, formulas, charts |
+| SQL | Projects 1 and 3: filtering, grouping, joins-style summaries, SQLite |
+| Power BI | Project 2: interactive dashboard with filters and a DAX measure |
+| Tableau | Project 1: interactive dashboard |
+| R | Coursework |
+| Python | Currently learning |
 
-Power BI	Developing
-
-Tableau	Developing
-
-SQL	Developing
-
-R	Developing
-
-Python	Currently Learning
 
 Portfolio Projects
 
@@ -65,18 +62,16 @@ I am building projects that demonstrate my ability to collect, clean, analyze, a
 
 **Tools used:** Excel (cleaning, PivotTables), Power BI (dashboard, DAX measure)
 
-3. Business Operations Analysis
+3. Psychiatric Facility Quality: Missouri vs. the Nation (Healthcare)
+**Status: Complete** | [View the project](project3-psychiatric-facility-quality/README.md)
 
-Status: Coming Soon
+![Psychiatric facility quality dashboard](project3-psychiatric-facility-quality/dashboard.png)
 
-Evaluating business performance, operational efficiency, and key performance indicators (KPIs).
+**Business question:** How do Missouri's psychiatric facilities compare with the national picture on follow-up care, treatment at discharge, and readmissions?
 
-Career Interests
+**Headline finding:** Missouri facilities average 29.9% on 7-day follow-up after discharge vs. 36.8% nationally, and 54.0% vs. 69.5% on alcohol/drug treatment at discharge. About 44% of facilities have no 7-day follow-up value, mostly because they had too few cases.
 
-* Data Analyst
-* Business Intelligence Analyst
-* Business Analyst
-* Reporting Analyst
+**Tools used:** Excel (formulas, charts), SQL with SQLite, GitHub
 
 Career Goal
 
